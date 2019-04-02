@@ -1,0 +1,12 @@
+img2pdf==0.3.3
+Pillow==5.4.1
+PyAutoGUI==0.9.41
+PyGetWindow==0.0.3
+PyMsgBox==1.0.6
+PyPDF2==1.26.0
+PyRect==0.1.4
+PyScreeze==0.1.19
+python3-xlib==0.15
+PyTweening==1.0.3
+selenium==3.141.0
+urllib3==1.24.1
